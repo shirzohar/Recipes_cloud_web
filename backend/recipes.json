@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Pasta with Cream Sauce",
+    "ingredients": "Pasta, heavy cream, garlic, butter",
+    "instructions": "Cook pasta, add sauce and stir",
+    "cook_time": 20
+  },
+  {
+    "id": 2,
+    "title": "Chocolate Cake",
+    "ingredients": "Cocoa, flour, eggs, sugar",
+    "instructions": "Mix the ingredients and bake",
+    "cook_time": 45
+  }
+]
